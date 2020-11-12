@@ -26,4 +26,4 @@ echo -n " ."
 done
 echo ""
 done
-echo -e "\n\n\t\t\t Whenever you need help, Tecmint.com is always                      >
+echo -e "\n\n\t\t\t Whenever you need help, https://www.youtube.com/channel/UCyOZmncetS1EBtCw3V9fYNg/videos?view_as=subscriber is always                      >
